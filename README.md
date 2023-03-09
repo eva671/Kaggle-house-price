@@ -1,2 +1,2 @@
-# Kaggle-house-price
-Kaggle house prices prediction project
+# Kaggle-titanic
+Kaggle Titanic survival prediction project
